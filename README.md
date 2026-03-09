@@ -20,7 +20,7 @@ Visualisasi UMAP dan distribusi nilai ekspresi gen pada kanker pankreas dan kont
 ![This is an alt text.](UMAP.png)
 
 Analisis Lanjutan Menggunakan ShinyGO versi 0.85.1
-![This is an alt text.](Barplot.png)
+![This is an alt text.](Bar_Plot.png)
 
 **Kesimpulan**
 Berdasarkan hasil analisis diketahui bahwa gen Vegfc, Gm19696, dan Wnk2 dapat digunakan sebagai biomarker saliva untuk deteksi penyakit kanker pankreas pada tikus.
